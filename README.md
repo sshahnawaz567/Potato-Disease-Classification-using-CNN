@@ -1,5 +1,4 @@
 # Potato-Disease--Classification-using-CNN
-# Potato-Disease-Classification-using-CNN
 
 Project Description
 This project aims to build a mobile application that helps farmers detect diseases in potato plants using deep learning, particularly Convolutional Neural Networks (CNN). The application will classify potato plants as healthy or identify if they are affected by early blight or late blight diseases. Early blight is caused by a fungus, and late blight is caused by microorganisms. Accurate detection allows farmers to apply appropriate treatments and minimize economic losses.
